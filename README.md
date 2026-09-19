@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hongyu Lin
+
+Email: hy-lin26@mails.tsinghua.edu.cn
+
+Welcome to my GitHub profile. I am interested in academic research and open collaboration. Please feel free to contact me by email to discuss research ideas or potential collaborations.
 
 <!--
 **SwanGoose-L/SwanGoose-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
